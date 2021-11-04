@@ -1,0 +1,14 @@
+#sq{
+	width:100px ;
+	height:100px ;
+	background-color: royalblue;
+	transition-duration: 2s;
+}
+#sq:hover{
+	transform: rotate(720deg) scale(2,0.5);
+	transition-duration: 2s;
+}
+#sw:hover{
+	transform: rotate(10deg) scale(2,0.5);
+	transition-duration: 2s;
+}
